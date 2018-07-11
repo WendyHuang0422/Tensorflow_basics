@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4532d6e-f7f6-478a-906e-4c1b1dc0d985" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/placeholder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="placeholder.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="placeholder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/placeholder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variable.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/variable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -60,6 +67,7 @@
         <option value="$PROJECT_DIR$/session.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/placeholder.py" />
+        <option value="$PROJECT_DIR$/variable.py" />
       </list>
     </option>
   </component>
@@ -107,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.placeholder">
+  <component name="RunManager" selected="Python.variable">
     <configuration name="placeholder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,12 +152,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.session" />
       <item itemvalue="Python.placeholder" />
+      <item itemvalue="Python.variable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.variable" />
         <item itemvalue="Python.placeholder" />
         <item itemvalue="Python.session" />
       </list>
@@ -211,8 +239,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/placeholder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
